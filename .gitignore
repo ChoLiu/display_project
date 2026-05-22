@@ -14,5 +14,6 @@ venv/
 # Editor / OS
 .vscode/
 .idea/
+.claude/
 .DS_Store
 *.swp
